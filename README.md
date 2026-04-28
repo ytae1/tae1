@@ -15,7 +15,7 @@ I'm **Taewon Yun**, an M.S. student in Aerospace Engineering.
 ---
 
 ### 📫 Connect me
-[![Gmail Badge](https://img.shields.io/badge/seozero@o.cnu.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:seozero@o.cnu.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/snine09@outlook.kr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:snine09@outlook.kr)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/young-seo-4213942a5/)](https://www.linkedin.com/in/taewon-yun-0543b5382/)
 
 
